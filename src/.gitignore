@@ -1,0 +1,15 @@
+# Dependencias y archivos temporales de Expo
+node_modules/
+.expo/
+dist/
+web-build/
+
+# Variables de entorno (tus claves de Supabase)
+.env
+.env*.local
+
+# Archivos del sistema y registros de errores
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.DS_Store
